@@ -47,6 +47,7 @@ int main(int argc, char** argv) {
     f(z);
     printf("%d\n", z);
  
+    printf("%s", person.GetAge());
     return 0;
 }
 
