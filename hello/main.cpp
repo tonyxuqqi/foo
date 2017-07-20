@@ -47,9 +47,7 @@ int main(int argc, char** argv) {
     const int& z = x;
     f(z);
     printf("%d\n", z);
-    
-    auto xx = x;
-    
+ 
     return 0;
 }
 
