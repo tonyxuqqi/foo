@@ -23,7 +23,6 @@ using namespace std;
 template<typename T>
 void f(T& param)
 {
-    //param = 3;
     printf("%d\n", param);
 }
 
